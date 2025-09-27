@@ -1,4 +1,5 @@
 {
+  "homepage": "https://yashkappa.github.io/ielts-institute-homepage/",
   "name": "ielts-institute-homepage",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +14,7 @@
     "lucide-react": "^0.544.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.3",
     "react-scripts": "5.0.1",
     "react-tsparticles": "^2.12.2",
     "tsparticles": "^3.9.1",

@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light shadow-sm fixed-top">
       <div className="container">
-        <a className="navbar-brand fw-bold" href="#">IELTS Pro</a>
+        <span className="navbar-brand fw-bold" href="#">IELTS Pro</span>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
           <span className="navbar-toggler-icon"></span>
         </button>

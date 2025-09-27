@@ -5,6 +5,7 @@ import AOS from 'aos';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
+import { BrowserRouter } from 'react-router-dom';
 
 AOS.init({ 
   duration: 1200, 
@@ -13,4 +14,8 @@ AOS.init({
 });
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<App />);
+root.render(
+  <BrowserRouter basename="/ielts-institute-homepage">
+    <App />
+  </BrowserRouter>
+);
