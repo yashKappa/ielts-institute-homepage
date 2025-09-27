@@ -55,24 +55,7 @@ Live demo link: *(Add your deployed link here, e.g., Vercel, Netlify)*
 
 ---
 
-ielts-pro-homepage/
-│
-├─ public/
-│ └─ index.html
-│
-├─ src/
-│ ├─ components/
-│ │ ├─ Navbar.jsx
-│ │ ├─ Hero.jsx
-│ │ ├─ Features.jsx
-│ │ ├─ Testimonials.jsx
-│ │ ├─ Footer.jsx
-│ │ └─ Bubbles.jsx
-│ │
-│ ├─ App.js
-│ ├─ App.css
-│ └─ index.js
-│
-└─ package.json
+<img width="551" height="461" alt="image" src="https://github.com/user-attachments/assets/fd61df7d-5f9b-439f-a668-757a90f5f584" />
+
 ## Project Structure
 
