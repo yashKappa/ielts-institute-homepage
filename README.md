@@ -55,7 +55,7 @@ Live demo link: *(Add your deployed link here, e.g., Vercel, Netlify)*
 
 ---
 
-<img width="551" height="461" alt="image" src="https://github.com/user-attachments/assets/fd61df7d-5f9b-439f-a668-757a90f5f584" />
+<img width="139" height="326" alt="image" src="https://github.com/user-attachments/assets/184ab536-1969-4eae-b12b-a3f58591283c" />
 
 ## Project Structure
 
