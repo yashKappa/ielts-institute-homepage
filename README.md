@@ -20,7 +20,7 @@ A modern, interactive, and highly animated homepage for the **IELTS Pro Institut
 
 ## Demo
 
-Live demo link: [*(Add your deployed link here, e.g., Vercel, Netlify)*](https://yashkappa.github.io/ielts-institute-homepage/)
+Live demo link: https://yashkappa.github.io/ielts-institute-homepage/
 
 ---
 
