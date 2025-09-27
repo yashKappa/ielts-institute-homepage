@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c3b2dfd.css",
-    "main.js": "/static/js/main.ade3015a.js",
-    "index.html": "/index.html",
-    "main.3c3b2dfd.css.map": "/static/css/main.3c3b2dfd.css.map",
-    "main.ade3015a.js.map": "/static/js/main.ade3015a.js.map"
+    "main.css": "/ielts-institute-homepage/static/css/main.3c3b2dfd.css",
+    "main.js": "/ielts-institute-homepage/static/js/main.cd8466ef.js",
+    "index.html": "/ielts-institute-homepage/index.html",
+    "main.3c3b2dfd.css.map": "/ielts-institute-homepage/static/css/main.3c3b2dfd.css.map",
+    "main.cd8466ef.js.map": "/ielts-institute-homepage/static/js/main.cd8466ef.js.map"
   },
   "entrypoints": [
     "static/css/main.3c3b2dfd.css",
-    "static/js/main.ade3015a.js"
+    "static/js/main.cd8466ef.js"
   ]
 }
