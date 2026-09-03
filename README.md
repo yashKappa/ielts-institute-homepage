@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/c7bf01a3-9937-41ac-aebb-aaac0f64d08c)
 # IELTS Pro Institute Homepage
 
 A modern, interactive, and highly animated homepage for the **IELTS Pro Institute**. Built with **React**, **Bootstrap**, and **CSS animations**, this project features smooth scrolling, animated sections, interactive buttons, gradient texts, floating bubbles, and a visually appealing layout.
